@@ -48,6 +48,7 @@
   ## usage
 
   nativeaot_loader.exe /path/to/nativeAOTapp.exe
+  <img width="1104" height="363" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e0c12d43-8270-4c6f-8fab-241bd49b1214" />
 
   ## test payload
 
